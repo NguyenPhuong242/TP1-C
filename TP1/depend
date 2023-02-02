@@ -1,0 +1,3 @@
+Main.o: Main.c MyStringTest.h
+MyString.o: MyString.c MyString.h
+MyStringTest.o: MyStringTest.c MyStringTest.h MyString.h
